@@ -343,7 +343,6 @@ header .navigation li {
   box-shadow: 10px 10px;
 }
 
-
 @media (min-width: 701px) and (max-width: 999px){
   h3 {
     font-size: 1.8rem;
